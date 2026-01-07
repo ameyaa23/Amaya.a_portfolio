@@ -1,1 +1,2 @@
-# Amaya.a_portfolio
+# 👋 Hi, I'm Amaya.A
+Data Analyst | Data Driven Decision Making | Transforming Insights into Impact
