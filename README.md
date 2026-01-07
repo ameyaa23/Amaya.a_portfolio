@@ -15,7 +15,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 ---
 
 ## 🎓 Education  
-- ** BCA-MOBILE APPLICATIONS & CLOUD TECHNOLOGY **  
+- **BCA-MOBILE APPLICATIONS & CLOUD TECHNOLOGY**  
   *SACRED HEART COLLEGE, THEVARA (2022 – 2025)*  
 
 ---
