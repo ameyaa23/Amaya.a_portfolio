@@ -2,7 +2,6 @@
 **_Data Analyst_** | **_Data Driven Decision Making_** | **_Transforming Insights into Impact_**
 
 [Linkedin](www.linkedin.com/in/ameyarinesh)
-![CRM](crm_dashboard1.png)
 
 <!--Section 1: Introduction-->
 
@@ -42,7 +41,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 🔍 Implemented automated multi-currency and unit conversion to standardise 5+ currencies into USD per gallon.  
 📈 Engineered automated calculations for total fuel cost, including VAT, fees, and taxes, reducing manual computation errors by 80%.  
 
-![image](BI360.jpg)  
+![image](vba userform.png)  
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
