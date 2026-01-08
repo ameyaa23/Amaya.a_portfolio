@@ -37,23 +37,32 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 
 ## 📊 Projects  
 
-### BI 360 – [Power BI and MySQL]  
-🌍 AtliQ's global expansion led to complex challenges and losses in Latin America.  
-🔍 We developed interactive Power BI dashboards for finance, sales, marketing, supply chain, and executive insights.  
-📈 Empowered AtliQ with data-driven strategies for growth.  
+### Fuel Pricing Database Management System – [Excel VBA]  
+🌍 Formulated an Excel VBA UserForm–based fuel pricing database with insert, edit, update and delete functionality.  
+🔍 Implemented automated multi-currency and unit conversion to standardise 5+ currencies into USD per gallon.  
+📈 Engineered automated calculations for total fuel cost, including VAT, fees, and taxes, reducing manual computation errors by 80%.  
+
 ![image](BI360.jpg)  
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
-### Hospitality Analysis – [Power BI and Excel]  
-🏨 AtliQ Grands faced declining market share and revenue due to poor management decisions.  
-💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
-📊 Insights supported decision-making for enhanced performance.  
+### CRM Sales Performance Analysis Power BI – [Power BI and Excel]  
+🏨 Designed an interactive dashboard to analyse 2,000+ CRM records, reducing manual reporting time by 40%. 
+💡 Evaluated sales performance across 8+ industries and assessed monthly pipeline health. 
+📊 Identified top-performing sales agents and tracked conversion rates across 5+ countries, improving visibility into regional performance.
+🧹 Used Power Query to clean and transform data, and created 5+ DAX measures for accurate and scalable calculations.
+
 ![image](hospitality.jpg)  
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)  
 
 ---
+### WISP - [Python Django,html]                                                                                                
+• 🚀 Developed WISP, a web-based interactive study platform using Python and Angular, supporting Admin, Teacher, and Student roles with 100+ users.
+• 🔐 Implemented role-based access control, reducing manual academic coordination by 40%.
+• 📚 Built features like study material uploads, assignment submissions with deadlines, and leave management, improving task completion by 30%.
+• 🤖 Integrated an AI-powered chatbot to resolve 70%+ of student queries instantly, enhancing overall learning support.
+
 
 ## 📜 Courses & Certifications  
 - ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
