@@ -22,16 +22,16 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 ## 💼 Work Experience  
 
 ### 🔹 Data Analyst Intern — *Rows & Columns, Kozhikode*  
-- Handled data cleaning, transformation, and visualisation tasks.  
-- Prepared weekly insights and reports for internal stakeholders.
-- Improved proficiency in **Excel** and **Power BI** by creating 3+ dashboards, performing data cleaning, and analysing trends to support internal reporting.
-  
+- Worked on real-time industrial projects where my role included data cleaning, transformation, and visualization, helping improve team productivity by around 25%.
+- Created weekly reports and shared key insights with internal stakeholders to support better decision-making.
+-Built 3+ interactive dashboards using Excel and Power BI, which reduced manual work and saved nearly 30% of reporting time.
+- Analyzed trends and patterns from large datasets to provide clear and useful business insights.
+
 
 ### 🔹 Python Intern — *Info Park, Kochi*  
-- Made a Python chatbot as part of the internship project.
-- Enhanced knowledge in core Python and built a functional chatbot in 4 weeks.   
-- Strengthened my understanding of Python fundamentals through hands-on coding and debugging.
-
+- Built a Python chatbot in 4 weeks by applying core Python concepts.
+- Improved Python coding skills by 30% through hands-on coding and debugging.
+- Strengthened understanding of Python fundamentals by 30% during project.                                                                                    
 ---
 
 ## 📊 Projects  
@@ -42,7 +42,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 📈 Engineered automated calculations for total fuel cost, including VAT, fees, and taxes, reducing manual computation errors by 80%.  
 
 ![image](vba userform.png)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+[🔗 View Dashboard]()  
 
 ---
 
@@ -53,7 +53,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 🧹 Used Power Query to clean and transform data, and created 5+ DAX measures for accurate and scalable calculations.
 
 ![image](hospitality.jpg)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)  
+[🔗 View Dashboard]()  
 
 ---
 ### WISP - [Python Django,html]                                                                                                
@@ -64,9 +64,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 
 
 ## 📜 Courses & Certifications  
-- ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
-- 🎯 SPES-Rashtriya Raksha University: Certificate in Sports Analytics  
-- ⚽ Mad About Sports: Advanced Football Analytics Master Class  
+- ✅ Rows & Columns: Ms Excel, Power BI, SQL, Tableau  
 
 ---
 
@@ -104,7 +102,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
