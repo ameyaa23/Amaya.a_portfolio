@@ -6,7 +6,8 @@
 <!--Section 1: Introduction-->
 
 ## 🌟 About Me  
-I'm a Data Analyst Intern at Rows & Columns, passionate about transforming raw data into actionable insights.  
+
+I'm a Data Analyst, passionate about transforming raw data into actionable insights.  
 Skilled in **Power BI**, **Excel**, **DAX**, and **SQL**, I build dynamic dashboards, streamline reporting workflows, and support data-driven decision-making.  
 Successfully handled datasets of up to 2,000+ records and built dashboards that improved decision-making for stakeholders.
 🚀 Let’s turn data into impactful stories!  
@@ -28,7 +29,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 - Analyzed trends and patterns from large datasets to provide clear and useful business insights.
 
 
-### 🔹 Python Intern — *Info Park, Kochi*  
+### 🔹 Python Intern — *InfoPark, Kochi*  
 - Built a Python chatbot in 4 weeks by applying core Python concepts.
 - Improved Python coding skills by 30% through hands-on coding and debugging.
 - Strengthened understanding of Python fundamentals by 30% during project.                                                                                    
@@ -102,7 +103,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
+      <td><a href="ameya_a_data_analyst.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
