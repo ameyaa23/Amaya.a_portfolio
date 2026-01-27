@@ -42,8 +42,8 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 🔍 Implemented automated multi-currency and unit conversion to standardise 5+ currencies into USD per gallon.  
 📈 Engineered automated calculations for total fuel cost, including VAT, fees, and taxes, reducing manual computation errors by 80%.  
 
-![image](vba userform.png)  
-[🔗 View Dashboard]()  
+![image](vbauserform.png)  
+
 
 ---
 
