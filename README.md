@@ -25,7 +25,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 ### 🔹 Data Analyst Intern — *Rows & Columns, Kozhikode*  
 - Worked on real-time industrial projects where my role included data cleaning, transformation, and visualization, helping improve team productivity by around 25%.
 - Created weekly reports and shared key insights with internal stakeholders to support better decision-making.
--Built 3+ interactive dashboards using Excel and Power BI, which reduced manual work and saved nearly 30% of reporting time.
+- Built 3+ interactive dashboards using Excel and Power BI, which reduced manual work and saved nearly 30% of reporting time.
 - Analyzed trends and patterns from large datasets to provide clear and useful business insights.
 
 
