@@ -53,7 +53,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 📊 Identified top-performing sales agents and tracked conversion rates across 5+ countries, improving visibility into regional performance.
 🧹 Used Power Query to clean and transform data, and created 5+ DAX measures for accurate and scalable calculations.
 
-[🔗 View Dashboard](https://github.com/ameyaa23/CRM-PowerBI-Dashboard.git)  
+[🔗 Check here](https://github.com/ameyaa23/CRM-PowerBI-Dashboard.git)  
 
 ---
 ### WISP - [Python Django,html]                                                                                                
