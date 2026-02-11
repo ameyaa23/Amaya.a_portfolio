@@ -32,7 +32,7 @@ Successfully handled datasets of up to 2,000+ records and built dashboards that 
 ### 🔹 Python Intern — *InfoPark, Kochi*  
 - Built a Python chatbot in 4 weeks by applying core Python concepts.
 - Improved Python coding skills by 30% through hands-on coding and debugging.
-- Strengthened understanding of Python fundamentals by 30% during project.                                                                                    
+                                                                                  
 ---
 
 ## 📊 Projects  
